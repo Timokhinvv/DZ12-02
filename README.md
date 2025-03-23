@@ -68,6 +68,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 ![Uploading 8_Снимок экрана от 2025-03-23 16-37-31.png…]()
 
 
+
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
 
 
