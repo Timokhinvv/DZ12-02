@@ -97,6 +97,7 @@ rental	rental_id
 staff	staff_id
 store	store_id
 ![Uploading image.png…]()
+![Uploading image.png…]()
 
 
 ## Дополнительные задания (со звёздочкой*)
