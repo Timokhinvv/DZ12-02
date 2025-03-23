@@ -54,6 +54,8 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 
 1.6. По ссылке https://downloads.mysql.com/docs/sakila-db.zip скачайте дамп базы данных.
+![6_Снимок экрана от 2025-03-23 05-52-57](https://github.com/user-attachments/assets/0ab1314b-fe2a-400c-a9f6-0747a406e13c)
+
 
 1.7. Восстановите дамп в базу данных.
 
