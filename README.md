@@ -27,6 +27,8 @@
 
 
 1.2. Создайте учётную запись sys_temp. 
+![3a_Снимок экрана от 2025-03-23 04-34-33](https://github.com/user-attachments/assets/7c3b2846-b31d-49a1-b5cd-28b8729664c6)
+
 ![3_Снимок экрана от 2025-03-23 04-36-11](https://github.com/user-attachments/assets/13769120-9e87-45b8-824f-ab3a5e2bca28)
 
 
