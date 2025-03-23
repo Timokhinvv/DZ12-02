@@ -55,19 +55,18 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 1.6. По ссылке https://downloads.mysql.com/docs/sakila-db.zip скачайте дамп базы данных.
 ![6_Снимок экрана от 2025-03-23 05-52-57](https://github.com/user-attachments/assets/0ab1314b-fe2a-400c-a9f6-0747a406e13c)
-![Uploading 6a_Снимок экрана от 2025-03-23 16-06-05.png…]()
+![6a_Снимок экрана от 2025-03-23 16-06-05](https://github.com/user-attachments/assets/0d488887-0e66-4d28-863a-9692234336c5)
+
 
 
 1.7. Восстановите дамп в базу данных.
-![Uploading 7_Снимок экрана от 2025-03-23 16-33-04.png…]()
+![7_Снимок экрана от 2025-03-23 16-33-04](https://github.com/user-attachments/assets/f4660514-5cce-4c6b-b7f9-ed9ec94b02f0)
 
 
 
 1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
-
-![Uploading 8_Снимок экрана от 2025-03-23 16-37-31.png…]()
-![Uploading 8a_Снимок экрана от 2025-03-23 16-52-39.png…]()
-
+![8_Снимок экрана от 2025-03-23 16-37-31](https://github.com/user-attachments/assets/c4f35f1b-7de5-4754-b050-ab107bf64313)
+![8a_Снимок экрана от 2025-03-23 16-52-39](https://github.com/user-attachments/assets/e9b776f7-b130-4c63-9c45-2ba5371093ad)
 
 
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
