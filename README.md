@@ -96,9 +96,10 @@ payment	payment_id
 rental	rental_id
 staff	staff_id
 store	store_id
-![Uploading image.png…]()
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/df0243d8-359e-4000-a46e-c47359fc6dfa)
+
 https://github.com/Timokhinvv/DZ12-02/blob/main/hw-12-2_2.xlsx
+
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже шире разобраться в материале.
